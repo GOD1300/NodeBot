@@ -6,7 +6,7 @@
 
 개발자   
 -------------
-##### [HeoYuBin][https://blog.hyb.kr]      
+##### HeoYuBin [https://blog.hyb.kr]      
 
 노드봇 소개   
 -------------
