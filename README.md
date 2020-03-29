@@ -26,4 +26,15 @@
 ##### **노드야 브라우저 목록** : 지원하는 브라우저 목록을 확인합니다.   
 ##### **노드야 브라우저 [OO]** : OO 브라우저의 정보를 확인합니다.   
 ##### **노드야 초대해** : 노드봇을 초대하는 링크를 출력합니다.   
-##### **노드야 유튭검색** : 유튜브에서 영상을 검색합니다 (명령어 사용 후 키워드 입력)   
+##### **노드야 유튭검색** : 유튜브에서 영상을 검색합니다 (명령어 사용 후 키워드 입력)  
+   
+사전 설치 모듈   
+-------------
+##### discord.js (npm install discord.js)   
+##### moment (npm install moment)   
+##### fs (npm install fs)   
+##### request (npm install request)   
+##### fetch (npm install node-fetch)   
+##### youtube-search (npm install youtube-search)   
+   
+##### npm install nodemon -g   
